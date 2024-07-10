@@ -137,25 +137,43 @@ font-weight: 400;
 line-height: 26px;
  } */
 
-.why-dev{
+ .why-dev{
     font-size: 32px;
   text-align: center;
   margin-top: 5%;
   margin-bottom: 20px;
-}
-.reason-dev{
+} 
+ .reason-dev{
     opacity: 0.7;
     font-size: 16px;
     text-align: center;
   
-}
-.reason-content{
-    margin: 25px;
+} 
 
-}
 .reason-title{
     margin-bottom: 25px;
 }
-.reason-description{
-    margin-bottom: 25px;
+.positive-view{
+    font-size: 32px;
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+    line-height: 37px;
+    text-align: center;
+}
+.positive-view-reason{
+    font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 10px;
+opacity: 0.7;
+margin-bottom: 5%;
+}
+.iframe{
+    border-radius: 10px;
+   margin-left: 22%;
+   margin-bottom: 5%;
+   padding: 30px 30px;
+   /* margin-right:10% ; */
 }
