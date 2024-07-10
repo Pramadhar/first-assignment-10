@@ -177,3 +177,61 @@ margin-bottom: 5%;
    padding: 30px 30px;
    /* margin-right:10% ; */
 }
+.target {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+.target-reason{
+    font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin-bottom: 3%;
+}
+.skill-title{
+    color: rgb(13, 19, 33);
+
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+}
+.skill-info{
+    font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+opacity: 0.7;
+letter-spacing: 0%;
+}
+.skill-number{
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+.skillOne{
+    padding: 30px;
+    background-color:  rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+}
+.skillTwo{
+    padding: 30px;
+ background-color: rgba(0, 76, 232, 0.05);
+      border-radius: 16px;
+}
+.skillThree{
+    background: rgba(255, 223, 0, 0.05);
+    padding: 30px;
+    border-radius: 16px;
+}
+.bg{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+font-weight: 700;
+}
