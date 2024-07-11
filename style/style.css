@@ -155,10 +155,14 @@ opacity: 0.7;
 margin-bottom: 5%;
 }
 .iframe{
-    border-radius: 10px;
-   margin-left: 22%;
-   margin-bottom: 5%;
-   padding: 30px 30px;
+    /* border-radius: 10px;
+  /* margin-left: 22%;  */
+   /* margin-bottom: 5%;
+   padding: 30px 30px;  */
+   width:1076px ; 
+   margin: 0px auto;
+   justify-content: center;
+   /* margin-left: 22%;  */
 }
 .target {
     color: rgb(13, 19, 33);
